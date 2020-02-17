@@ -1,0 +1,16 @@
+---
+layout: post
+title: Meu Blog
+date: 2020-02-17 00:22:00 +0300
+description: Primeiro post. # Add post description (optional)
+img: blog.jpg # Add image post (optional)
+tags: [Blog, Pessoal] # add tag
+---
+
+Este blog foi criado com o intuíto de registrar, explanar e aprofundar os diversos conhecimento que vou adquirindo com o tempo sobre as tecnologias que gosto e que exploro.
+
+Todo o conteúdo aqui abordado pode ser divulgado e compartilhado, desde que apresente os devidos créditos.
+
+Estou animado para espalhar um pouco do meu conhecimento.
+
+#### Bora Codar!
