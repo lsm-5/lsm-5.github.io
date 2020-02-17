@@ -2,9 +2,8 @@ title: Bem-vindo ao meu blog.
 description: > # this means to ignore newlines until "baseurl:"
   Aqui compartilho conhecimento sobre as tecnologias que aprendi.
 permalink: ":title/"
-baseurl: "/blog/" # the subpath of your site, e.g. /blog
-url: "https://github.com/lsm-5/lsm-5.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+baseurl: "/lsm-5.github.io/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Lucas Mendonça # add your name
